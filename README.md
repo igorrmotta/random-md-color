@@ -23,4 +23,4 @@ colors.lightText();
 colors.darkText();
 ```
 
-Colours
+Colors from [Material Design](https://material.io/guidelines/style/color.html)
